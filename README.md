@@ -1,6 +1,6 @@
 ### Start weather-monitoring-server
 
-run server.js inside server file. Using Command 
+run <b>server.js</b> inside server file. Using Command 
 ### node start
 then use npm start to start weather Monitoring System
 
